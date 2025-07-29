@@ -1,0 +1,9 @@
+[package]
+name = "term3d"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+authors = ["Kodeur_Kubik <kubik@openvoxel.studio>"]
+
+[dependencies]
+crossterm = "0.29"
