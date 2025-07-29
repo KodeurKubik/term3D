@@ -6,7 +6,7 @@ Well... Yeah :) Basically put 3D vertices in `data.rs` and export them at the bo
 
 ## Demo
 
-[next commit]
+https://github.com/user-attachments/assets/f2a90afa-381c-40cc-84c5-c81444dc4478
 
 ## Running
 
